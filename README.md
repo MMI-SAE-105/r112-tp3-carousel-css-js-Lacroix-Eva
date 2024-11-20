@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Lacroix
+- prénom : Eva
+- URL Netlify : https://spectacular-banoffee-31ae02.netlify.app/
 
 # Travail
 
